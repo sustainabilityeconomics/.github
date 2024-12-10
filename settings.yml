@@ -1,6 +1,6 @@
 repository:
   name: SE-Coding-Standards-FE-React
   description: Default template for new repositories.
-  private: true
+  private: false
   has_issues: true
   has_wiki: false
